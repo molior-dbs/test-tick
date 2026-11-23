@@ -1,0 +1,5 @@
+targets:
+  molior-validation:
+  - "1"
+build_after:
+  - 'test-track'
